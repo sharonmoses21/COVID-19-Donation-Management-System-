@@ -1,2 +1,2 @@
-# COVID-19-Donation-Management-System-
-This system's primary function is to keep track of the donations that have been received. A COVID-19 Donation Management System will be needed to allow Malaysia Red Crescent Society workers to carry out their duties, assuming that all these goods have been accepted.
+# COVID-19-Donation-Management-System
+Using C programming and text files as the backend database, the system is a COVID-19 Donation Management System. This system's primary function is to keep track of the donations that have been received. A COVID-19 Donation Management System will be needed to allow Malaysia Red Crescent Society workers to carry out their duties, assuming that all these goods have been accepted.
